@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.env
+
+# VS Code
+.vscode/
+
+# Browser databases
+data/
+History
+History_temp
+*.db
+*.sqlite
+*.sqlite3
+
+# Operating System
+.DS_Store
+Thumbs.db
