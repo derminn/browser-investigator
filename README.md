@@ -17,6 +17,18 @@ The project follows a modular architecture, separating data extraction from data
 - Generate browsing statistics
 - Modular architecture for future forensic extensions
 
+  ## Project Structure
+
+browser-investigator/
+│
+├── extractors/
+│   └── chrome_extractor.py    # Extract browser history
+│
+├── analyzer.py                # Browser history analysis engine
+├── main.py                    # Entry point
+├── requirements.txt           # Project dependencies
+└── README.md
+
 ## Tech stack
 
 - Python3
