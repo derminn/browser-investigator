@@ -17,7 +17,7 @@ The project follows a modular architecture, separating data extraction from data
 - Generate browsing statistics
 - Modular architecture for future forensic extensions
 
-  ## Project Structure
+## Project Structure
 
 browser-investigator/
 │
