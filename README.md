@@ -19,15 +19,18 @@ The project follows a modular architecture, separating data extraction from data
 
 ## Project Structure
 
+```text
 browser-investigator/
 │
 ├── extractors/
-│   └── chrome_extractor.py    # Extract browser history
+│   └── chrome_extractor.py      # Extract browser history
 │
-├── analyzer.py                # Browser history analysis engine
-├── main.py                    # Entry point
-├── requirements.txt           # Project dependencies
+├── analyzer.py                  # Browser history analysis engine
+├── main.py                      # Entry point
+├── requirements.txt             # Project dependencies
+├── .gitignore
 └── README.md
+```
 
 ## Tech stack
 
