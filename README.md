@@ -8,21 +8,21 @@ The project follows a modular architecture, separating data extraction from data
 
 ## Features 
 
--Extract browser history from thr Chromium-based browsers
--Analyze browsing timelines
--Identify most acive browsing hours
--Discover top visited domains 
--Rank most visited web pages 
--Search browsing history using keywords 
--Generate browsing statistics
--Modular architecture for future forensic extensions
+- Extract browser history from thr Chromium-based browsers
+- Analyze browsing timelines
+- Identify most acive browsing hours
+- Discover top visited domains 
+- Rank most visited web pages 
+- Search browsing history using keywords 
+- Generate browsing statistics
+- Modular architecture for future forensic extensions
 
 ## Tech stack
 
--Python3
--SQLite
--Pandas 
--urlib.parse
+- Python3
+- SQLite
+- Pandas 
+- urlib.parse
 
 ## Current Status 
 
